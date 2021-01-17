@@ -1,5 +1,6 @@
 # Digital-Image-Processing
 My Digital Image Processing Homeworks
+
   -Homework1:  
   
      q1) Kronecker product 
