@@ -1,5 +1,5 @@
 # Digital-Image-Processing
-My Digital Image Processing Homeworks
+My Digital Image Processing Homeworks (Python)
 
   -Homework1:  
   
