@@ -1,8 +1,13 @@
 # Digital-Image-Processing
 My Digital Image Processing Homeworks
   - Homework1:  
-    . q1) Kronecker product 
-    . q2) Interpolation 
-    . q3) FFT and IFFT of Image and using a Trackbar 
-    . q4) Give the Red Channel of an Image to Another Image
+     q1) Kronecker product 
+     q2) Interpolation 
+     q3) FFT and IFFT of image and using a trackbar 
+     q4) Give the red channel of an image to another image
+  - Homework3:
+     p1) Histogram equalization and color spaces
+     p2) Deconvolution and inverse filtering
+     p3) Quantization
+     p4) Comparison of two images
   
