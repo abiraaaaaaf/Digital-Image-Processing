@@ -7,11 +7,6 @@ from miscellaneous import imshow, sum_of_absolutes
 
 
 
-# ??? change the variable 'path' and point to azadi.jpg in your machine.
-#path = '/home/nader/Desktop/azadi.jpg'
-# ??? img = ... (read the image using OpenCV using variable 'path')
-# ??? img = ... (Convert to gray scale color space)
-
 path = 'resources/azadi.jpg'
 img = cv.imread(path)
 img = cv.cvtColor(img,cv.COLOR_BGR2GRAY)
