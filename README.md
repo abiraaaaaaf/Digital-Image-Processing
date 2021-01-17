@@ -13,3 +13,7 @@ My Digital Image Processing Homeworks
      p3) Quantization
      p4) Comparison of two images
   
+  -Homework4:
+  
+     p2) Hough Transform
+     p3) Image Smoothing (adding noise to images and how to denoise the noisy ones)
